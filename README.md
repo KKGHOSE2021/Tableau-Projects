@@ -18,6 +18,8 @@ In this project, the representation of the Paris Olympics that took place from J
 - How are the medal distributions among nations?
 
 ## Dashboard
+![image alt](Paris_Olympic_2024.png)
+
 ![image alt](href="https://github.com/KKGHOSE2021/Tableau-Projects/blob/main/Paris_Olympic_2024.png)
 
 <a href="https://public.tableau.com/app/profile/krishna.ghose7292/viz/ParisOlympic2024Dashboard/ParisOlympic2024" > Paris Olympic 2024 Dashboard </a>
