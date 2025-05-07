@@ -18,9 +18,10 @@ In this project, the representation of the Paris Olympics that took place from J
 - How are the medal distributions among nations?
 
 ## Dashboard
-![image alt](Paris_Olympic_2024.png)
 
 <a href="https://public.tableau.com/app/profile/krishna.ghose7292/viz/ParisOlympic2024Dashboard/ParisOlympic2024" > Paris Olympic 2024 Dashboard </a>
+
+![image alt](Paris_Olympic_2024.png)
 
 ## Conclusion
 - The Paris Olympic 2024 exhibits a greater gender equality among the number of participants and the medallists.
