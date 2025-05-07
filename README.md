@@ -5,6 +5,7 @@ In this project, the representation of the Paris Olympics that took place from J
 
 ## Dataset used
 <a href="https://github.com/KKGHOSE2021/Tableau-Projects/blob/main/athletes.csv" >Paris Olympic 2024 Data</a>
+
 <a href="https://github.com/KKGHOSE2021/Tableau-Projects/blob/main/madellists.csv" >Paris Olympic 2024 Data</a>
 
 ## KPIs
@@ -18,6 +19,7 @@ In this project, the representation of the Paris Olympics that took place from J
 
 ## Dashboard
 <a href="https://github.com/KKGHOSE2021/Tableau-Projects/blob/main/Paris Olympic 2024.png" > Paris Olympic 2024 Dashboard </a>
+
 <a href="https://public.tableau.com/app/profile/krishna.ghose7292/viz/ParisOlympic2024Dashboard/ParisOlympic2024" > Paris Olympic 2024 Dashboard </a>
 
 ## Conclusion
